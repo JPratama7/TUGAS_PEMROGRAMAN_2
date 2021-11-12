@@ -13,6 +13,8 @@ namespace P2_1_1204004
             this.MyTitle = title;
             this.duration = duration;
             this.MyType = "DVD";
+
+            Console.WriteLine("Ini dari class DVD");
         }
 
         public string Duration{
