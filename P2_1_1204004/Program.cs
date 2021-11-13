@@ -17,7 +17,7 @@ namespace P2_1_1204004
             DVD_1204004 dvd = new DVD_1204004("Ethernal Sunshine Of The Spotless Mind", "145");
             
             Console.WriteLine("Product 1 is a {0} called \"{1}\" and has {2} pages", mybook.MyType, mybook.MyTitle, mybook.PageCount);
-            Console.WriteLine("Product 1 is a {0} called \"{1}\" and has {2} minutes duration", dvd.MyType, dvd.MyTitle, dvd.Duration);
+            Console.WriteLine("Product 2 is a {0} called \"{1}\" and has {2} minutes duration", dvd.MyType, dvd.MyTitle, dvd.Duration);
         }
     }
 }
