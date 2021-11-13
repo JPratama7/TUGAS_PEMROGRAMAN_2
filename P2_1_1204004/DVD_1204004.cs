@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace P2_1_1204004
 {
     public class DVD_1204004 : Product_1204004
